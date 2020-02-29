@@ -22,6 +22,7 @@ require (
 	github.com/golang/mock v1.4.1
 	github.com/golang/protobuf v1.3.4
 	github.com/google/uuid v1.1.1
+	github.com/gorilla/mux v1.6.2
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/jmhodges/levigo v1.0.0 // indirect
 	github.com/juju/clock v0.0.0-20190205081909-9c5c9712527c
