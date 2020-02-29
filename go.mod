@@ -20,6 +20,7 @@ require (
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/subset v0.0.0-20200203212716-c811ad88dec4 // indirect
 	github.com/golang/mock v1.4.1
+	github.com/golang/protobuf v1.3.4
 	github.com/google/uuid v1.1.1
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/jmhodges/levigo v1.0.0 // indirect
@@ -36,5 +37,6 @@ require (
 	go.opencensus.io v0.22.3
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+	google.golang.org/grpc v1.27.1
 	gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
 )
