@@ -43,6 +43,7 @@ require (
 	github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/tecbot/gorocksdb v0.0.0-20191217155057-f0fad39f321c // indirect
+	github.com/urfave/cli v1.22.2
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.opencensus.io v0.22.3
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
