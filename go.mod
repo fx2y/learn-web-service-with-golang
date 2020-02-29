@@ -34,6 +34,7 @@ require (
 	github.com/tecbot/gorocksdb v0.0.0-20191217155057-f0fad39f321c // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.opencensus.io v0.22.3
+	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
 	gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
 )
