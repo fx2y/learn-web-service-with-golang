@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/fx2y/learn-web-service-with-golang/internal/linkgraph/graph"
-	"github.com/fx2y/learn-web-service-with-golang/internal/linkgraph/graph/store/memory"
+	"github.com/fx2y/learn-web-service-with-golang/internal/linkgraph/store/memory"
 	"github.com/fx2y/learn-web-service-with-golang/internal/linkgraphapi"
 	"github.com/fx2y/learn-web-service-with-golang/internal/linkgraphapi/proto"
 	"github.com/google/uuid"
