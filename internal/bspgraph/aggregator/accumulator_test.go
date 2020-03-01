@@ -72,7 +72,7 @@ func (s *AccumulatorTestSuite) testConcurrentAccess(a aggregator, values []inter
 		<-startedCh
 	}
 
-	// Allow each go-routine to update theh accumulator
+	// Allow each go-routine to update the accumulator
 	close(syncCh)
 
 	// Wait for all go-routines to exit
